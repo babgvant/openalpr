@@ -3,6 +3,7 @@
 #include <algorithm>
 #include <errno.h>
 #include <fstream>
+#include <sstream>
 #include <string.h>
 
 
